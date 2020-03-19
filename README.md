@@ -1,5 +1,4 @@
-# parallel_computing_numba
-Parallel Computing tutorial with numba
+# Parallel Computing tutorial with numba
 
 List of examples and exercises of parallel compiting in numba. 
 This is part of the Massive Open Online Course "Scientific Computing with Python"
